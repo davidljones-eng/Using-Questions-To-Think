@@ -33,6 +33,25 @@ conversation  ──question──▶  dialogue
 
 ---
 
+## Rational critique (Ch. 6)
+
+> **Critique = analysis, evaluation, purification, and refinement** of thoughts and arguments. It isn't just negative remarks.
+
+Ways to criticize an argument:
+
+1. Show that a **premise is false**.
+2. Show that it is **invalid**, so it's only an exposition.
+3. Show that the **evidence is weak or distorted**, for example with significant counterexamples.
+4. Show that it is **inconsistent** with another argument in the same person's worldview.
+5. Show that it leads to **paradox or contradiction**.
+6. Show that it is **trivial** or simply repeats its point.
+
+These can look like ways to "demolish opponents." Dickman isn't interested in winning. **All of them are ways to *improve* arguments and to take, or share, responsibility for them.**
+
+Full discussion: [folder 07](../07-Chapter-06-A-Rationality-of-Questioning-and-Reasoning/README.md#rational-critique)
+
+---
+
 ## The twelve orientations of questioning
 
 The sample prompts are our own phrasings, not quotes from the book.
@@ -51,25 +70,6 @@ The sample prompts are our own phrasings, not quotes from the book.
 | | Thesis-centered | the starting claim, rebuilt as a hypo-thesis | "What exactly was the original claim?" |
 | | Synthesis-centered | anticipated completion | "Where does this leave us?" |
 | | Dialectics-centered | how the dialogue itself moves | "How is this conversation working, and what keeps it open?" |
-
----
-
-## Rational critique (Ch. 6)
-
-> **Critique = analysis, evaluation, purification, and refinement** of thoughts and arguments. It isn't just negative remarks.
-
-Ways to criticize an argument:
-
-1. Show that a **premise is false**.
-2. Show that it is **invalid**, so it's only an exposition.
-3. Show that the **evidence is weak or distorted**, for example with significant counterexamples.
-4. Show that it is **inconsistent** with another argument in the same person's worldview.
-5. Show that it leads to **paradox or contradiction**.
-6. Show that it is **trivial** or simply repeats its point.
-
-These can look like ways to "demolish opponents." Dickman isn't interested in winning. **All of them are ways to *improve* arguments and to take, or share, responsibility for them.**
-
-Full discussion: [folder 07](../07-Chapter-06-A-Rationality-of-Questioning-and-Reasoning/README.md#rational-critique)
 
 ---
 
