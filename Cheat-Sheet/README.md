@@ -128,23 +128,22 @@ The sample prompts are our own phrasings, not quotes from the book.
 
 ---
 
-## Who's who
+## Rational critique (Ch. 6)
 
-| Thinker | What Dickman borrows |
-|---|---|
-| **Gadamer** | Fusion of horizons, prejudice, play ("all playing is a being played") |
-| **Ricoeur** | Linguistic hospitality, productive distantiation, the other within us |
-| **Husserl / Daubert** | Neutralized judgment, *Frageverhalt* (the questioned state of affairs) |
-| **Searle** | Felicity conditions for sincere questions, we-intentionality |
-| **Meyer** | Propositionalism |
-| **Kant** | The unconditioned, regulative ideals, transcendental apperception |
-| **Hegel** | *Aufhebung* (lift up, cancel, preserve), good vs. bad infinity |
-| **MacIntyre** | Practices and their internal goods |
-| **Tillich** | Ultimate concern, symbols, questioning as faith |
-| **Frankfurt** | Bullshit as indifference to truth |
-| **Levinas / Heidegger / Althusser / Butler** | "Call" models of responsibility that Dickman argues against |
-| **Beauvoir** | Tragic ambiguity |
-| **Dostoevsky** | The Grand Inquisitor: trading freedom for bread and answers |
+> **Critique = analysis, evaluation, purification, and refinement** of thoughts and arguments. It isn't just negative remarks.
+
+Ways to criticize an argument:
+
+1. Show that a **premise is false**.
+2. Show that it is **invalid**, so it's only an exposition.
+3. Show that the **evidence is weak or distorted**, for example with significant counterexamples.
+4. Show that it is **inconsistent** with another argument in the same person's worldview.
+5. Show that it leads to **paradox or contradiction**.
+6. Show that it is **trivial** or simply repeats its point.
+
+These can look like ways to "demolish opponents." Dickman isn't interested in winning. **All of them are ways to *improve* arguments and to take, or share, responsibility for them.**
+
+Full discussion: [folder 07](../07-Chapter-06-A-Rationality-of-Questioning-and-Reasoning/README.md#rational-critique)
 
 ---
 
