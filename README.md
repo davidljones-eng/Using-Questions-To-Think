@@ -31,6 +31,8 @@ The structure follows the book's **Appendix for Instructors** (p. 211). The appe
 
 **Where the part openers are summarized:** Part I's opener is in folder 01, Part II's is in folder 05, and Part III's is in folder 08.
 
+**Quick review:** the [Cheat Sheet](Cheat-Sheet/README.md) condenses the whole book onto one page.
+
 ---
 
 ## The book in one paragraph
