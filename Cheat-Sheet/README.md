@@ -80,11 +80,59 @@ The sample prompts are our own phrasings, not quotes from the book.
 | Test | Meets Searle's felicity conditions | Can't be reduced to a command |
 | Logic | An **epistemic imperative**: "Make it so that I know X" | Not about getting information for me |
 | Driven by | A deficit (something I lack) | A **surplus** (something worth exploring) |
-| Stance | Can be loaded | **Neutral and hospitable** to the answer and the answerer |
+| Stance | May be neutral or loaded | **Neutral and hospitable** to the answer and the answerer |
 | Goal | An answer handed over | **Shared asking**: the question becomes *ours* |
 | In dialogue | Interrogation | **Listening with our mouths** |
 
 **Grammar of questions:** open (wh-, "fill in the blank") vs. closed (yes/no, "multiple choice"), tag ("…, right?"), neutral vs. loaded. Grammar alone doesn't make a question open. Openness means **hospitality**.
+
+### Neutral vs. loaded (pp. 32–33)
+
+A question is **not an assertion**. It doesn't claim anything, so on its own it is **neutral**. A question becomes **loaded** when the asker slips an assertion into it, so it pushes toward a preferred answer or tries to trap the person answering.
+
+| Loaded | What it smuggles in | Neutral version |
+|---|---|---|
+| "Has the bus left **already**?" | The asker assumes *yes* and just wants confirmation | "Has the bus left **yet**?" |
+| "**Aren't** you ashamed of yourself?" | The asker believes you *should* be ashamed (negative bias, often annoyance) | "How do you feel about what happened?" *(our example)* |
+| "The guests have had **nothing** to eat?!" | A statement dressed up as a question (a declarative question) | "Have the guests eaten anything?" *(our example)* |
+
+**Loaded ≠ having presuppositions.** Every question takes *something* for granted. "What did you do today?" presupposes you did something, but it doesn't prefer any answer, so it's still neutral. A presupposition sets the **context** for an answer. Loading picks the answer **for** you.
+
+**Why Dickman cares more about neutral vs. loaded than open vs. closed:** an "open" wh-question isn't automatically deeper. Ask a kid "How was your day at school today?" and you'll still get "Fine." What makes a question truly open is that it lets the other person decide the answer "for and from themselves."
+
+### "Can't be reduced to a command" (pp. 33–37)
+
+Two standard theories treat every question as a **command in disguise**:
+
+| Theory | How it rewrites a question | Example |
+|---|---|---|
+| **Erotetic logic** (logic of questions) | A list of options to pick from, i.e. an **epistemic imperative**: "Make it the case that I know X" | "Is it raining?" → "Select one: It is raining. It is not raining." |
+| **Speech-act theory** (Searle) | A polite request that tells you how to respond | "What is your name?" → "Tell me your name." |
+
+An exam question fits this pattern too: "Make me know that you know X."
+
+These are **sincere** questions. They meet Searle's **felicity conditions**: I don't know the answer, I want to know it, and I'm asking to get it. There's nothing wrong with them. Most everyday questions are sincere.
+
+**The worry:** if *every* question is a disguised command, then questions are just tools of power: the interrogation, the cross-examination, the exam, the inquisition (Comay). Think of the dictator's line, "It is **we** who will ask the questions here!" (Žižek). Some therapists in Carl Rogers's tradition stopped asking clients questions altogether for this reason.
+
+**Dickman's answer:** some questions **can't** be turned into commands without losing what makes them questions. He calls these **genuine** questions.
+
+- **Try the rewrite test** *(our phrasing of his point)*: turn the question into "Tell me…" or "Make me know…". If nothing is lost, it was a command in question form. If what disappears is the invitation to *think about it together*, it was genuine.
+- **Deficit vs. surplus:** if all you want is someone's name, you could just read their nametag. The question is a tool, driven by what you lack. A genuine question comes from **surplus**: you ask for the joy of it and stay with whatever the question opens up.
+- **The goal is shared asking:** "The point of some questions is less to get an answer and more to get another person to ask the questions with us." Asking together creates ***communitas***, a community of people asking the same question.
+
+### "Neutral and hospitable" (pp. 32–33)
+
+For Dickman, **openness = hospitality**, not grammar. An open question is "hospitable to a genuine answer or complete thought without distorting it or prompting it with bias." Hospitality points in two directions:
+
+| Hospitable to… | What it means | What it rules out |
+|---|---|---|
+| **The answer** | Any answer is welcome, including one you didn't expect. The question is neutral and doesn't steer | Loaded wording, trick questions, fishing for the "right" answer |
+| **The answerer** | You treat the other person as someone who may say something new, even something more right than what you think. You aren't extracting data from them | Interrogating, testing, or asking only to set up your own point |
+
+Later chapters build on this. A genuine question is a way of **listening with our mouths** (Ch. 8), and it means intending "to hear what someone else has to say" so that "something new and unpredictable emerges for the both of us" (Ch. 9).
+
+Full discussion: [folder 03](../03-Chapter-02-What-Do-Questions-Do-to-Complete-Thoughts/README.md)
 
 ---
 
@@ -178,6 +226,7 @@ Only the key terms that appear on this cheat sheet. Each chapter folder has a fu
 | **Bullshit** | Frankfurt: indifference to truth. Worse than lying |
 | **Closed question** | A yes/no or either/or question with a limited answer set ("multiple choice") |
 | **Cogent** | An inductive argument that is strong and has true premises |
+| ***Communitas*** | Community formed by asking questions together |
 | **Complete thought** | A subject combined with a predicate. The basic unit of thought and language |
 | **Conclusion** | The complete thought an argument supports |
 | **Constancy truth** | Reliability over time |
@@ -191,6 +240,7 @@ Only the key terms that appear on this cheat sheet. Each chapter folder has a fu
 | **Dictatorial monologue** | Speaking without genuine questions. Treating provisional answers as absolute |
 | **Dogma** | Thought hardened into commitment that polices all further questioning |
 | **Empathy** | Feeling with someone. Not the same as understanding what they say |
+| **Erotetic logic** | Formal logic of questions, which treats a question as a set of presupposed propositions to choose from |
 | **Epistemic imperative** | A question treated as a command: "Make it the case that I know X" |
 | **Eschatological patience** | Relaxed dwelling within ongoing questions |
 | **Explanation** | Shows *why* something is so. Not an argument |
@@ -217,6 +267,7 @@ Only the key terms that appear on this cheat sheet. Each chapter folder has a fu
 | **Predicate** | What's said about a subject. Answers "What is being said about it?" |
 | **Prejudice** | Pre-judgment. A historically transmitted anticipation of meaning that questioning puts at risk |
 | **Premise** | A complete thought that supports a conclusion. A ground |
+| **Presupposition** | What a question takes for granted. The context for any answer, biased or not |
 | **Productive negativity** | Negation that moves a dialogue forward |
 | **Propositionalist ideology** | The view that thought consists of abstract propositions apart from the questions they answer |
 | **Reason** | A justification in the order of inference. Not a motive |
