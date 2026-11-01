@@ -121,6 +121,24 @@ These are **sincere** questions. They meet Searle's **felicity conditions**: I d
 - **Deficit vs. surplus:** if all you want is someone's name, you could just read their nametag. The question is a tool, driven by what you lack. A genuine question comes from **surplus**: you ask for the joy of it and stay with whatever the question opens up.
 - **The goal is shared asking:** "The point of some questions is less to get an answer and more to get another person to ask the questions with us." Asking together creates ***communitas***, a community of people asking the same question.
 
+**The rewrite test in action** *(our examples)*:
+
+| Question | Rewritten as a command | What's lost? | Verdict |
+|---|---|---|---|
+| "What time does the library close?" | "Tell me when the library closes." | Nothing. You wanted a fact, and the command gets it just as well. A posted sign would do too (like the nametag) | **Sincere**: a command in question form |
+| A friend asks you, with no answer in mind, "What do you think makes a life go well?" | "Tell me what makes a life go well." | Almost everything. The command demands a verdict, as if you were being tested. The original invited you to wonder *with* them, and neither of you had to have the answer | **Genuine** |
+
+**Examples of genuine questions** *(ours, not the book's)*:
+
+- "What makes a friendship worth keeping?" asked over dinner, when nobody needs a verdict.
+- "What does it mean to be free?" asked in a seminar by an instructor who is still wondering about it, not checking for a textbook answer.
+- "Why do you see it that way?" asked to understand someone, not to catch them out.
+- "What would it look like if we were both partly right?" asked in the middle of a disagreement.
+- "What are we actually asking here?" asked when a discussion stalls (a questioning-centered question).
+- "What is a question?" The question the whole book asks.
+
+**Genuine is in the asking, not the wording.** Ask "What does it mean to be free?" on an exam and it becomes "Make me know that you know X." That's sincere, not genuine. Ask "What time does the library close?" and you'll rarely mean anything but a request for information. The same words can be either. What counts is whether the question is neutral, comes from surplus rather than need, and invites the other person to ask it with you.
+
 ### "Neutral and hospitable" (pp. 32–33)
 
 For Dickman, **openness = hospitality**, not grammar. An open question is "hospitable to a genuine answer or complete thought without distorting it or prompting it with bias." Hospitality points in two directions:
