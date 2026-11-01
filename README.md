@@ -33,6 +33,8 @@ The structure follows the book's **Appendix for Instructors** (p. 211). The appe
 
 **Quick review:** the [Cheat Sheet](Cheat-Sheet/README.md) condenses the whole book onto one page.
 
+**Bloom's Taxonomy:** [Blooms](Blooms/README.md) summarizes a standard Bloom's handout and compares it with Dickman's account of questions.
+
 ---
 
 ## The book in one paragraph
